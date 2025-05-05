@@ -1,3 +1,5 @@
 # hello-world
 This repository is for practicing the GitHub flow
 I have worked in many different areas over the years but settled on nursing in my late 20's. I have worked as a nurse for over a decade and am looking to find additional ways to use my nursing training without staying in a patient facing position. I have always had an intrest in computers and technology and am looking forward to learning more in this field. 
+I completed my first bootcamp, Data Analytics with Python, at CodeYou in March 2025. I learned a lot, my instructors were great! They were very knowledgeable and helpful! Thank you Danny and Matt! 😄  I also met quite a few great people in the onsite class. It was great getting to know them and collaborating on projects and assignments for class. 
+I am starting my second bootcamp with CodeYou this May 2025, I am not sure yet which track I will be taking, I'm not sure what tracks are on offer for this cohort yet. I am starting the pre-work late as I just was offered an open spot. Can't wait to lean something new! 🤩
